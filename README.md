@@ -27,3 +27,12 @@ I used this repo to understand how these libraries work and practice handling an
 * Sorting and organizing data
 * Basic data analysis
 
+## Files
+
+The repository contains different Python files and notebooks where I practiced the concepts with small examples and datasets.
+
+## Goal
+
+The main goal of this repository is to get comfortable with NumPy and Pandas before using them in larger **data analysis, machine learning, and Python projects**.
+
+This is mainly a learning and practice repository, so the code may contain simple experiments and different approaches while I was learning.
