@@ -5,6 +5,7 @@ This repository contains my practice work while learning NumPy and Pandas in Pyt
 I used this repo to understand how these libraries work and practice handling and analyzing data with them.
 
 What I Practiced
+
 NumPy
 Creating NumPy arrays
 Working with 1D and 2D arrays
